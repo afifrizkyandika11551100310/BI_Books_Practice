@@ -1,2 +1,2 @@
 # BI_Books_Practice
-Self Literature Review in BI Filed
+Self Literature Review in BI Field
